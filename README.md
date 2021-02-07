@@ -24,7 +24,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-No challenges
 
 ## License
 
